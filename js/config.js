@@ -82,16 +82,28 @@ window.OKYY_CONFIG = {
       youtubeId: 'BG9NMehBofU'
     },
     {
-      id: 'kamippoi',
-      title: { en: '神っぽいな', ja: '神っぽいな' },
-      subtitle: { en: 'ShoyuVT — Cover MV', ja: 'ShoyuVT — 歌ってみたMV' },
-      description: {
-        en: 'A cover-song music video featuring punchy typography and beat-focused motion.',
-        ja: 'ビートに合わせたモーションと印象的なタイポグラフィを取り入れた歌ってみたMV。'
+      id: 'warriors-yamekari',
+      title: {
+        en: 'WARRIORS — Imagine Dragons',
+        ja: 'WARRIORS — Imagine Dragons'
       },
-      type: 'mv', year: '2026',
-      role: { en: 'Editing / Typography', ja: '編集・タイポグラフィ' },
-      image: 'assets/work-kamippoi.svg', videoUrl: '', youtubeId: ''
+      subtitle: {
+        en: 'Yamekari — Polish Cover MV',
+        ja: 'Yamekari — ポーランド語カバーMV'
+      },
+      description: {
+        en: 'A music video for Yamekari’s Polish-language cover of "WARRIORS" by Imagine Dragons, associated with League of Legends. Video editing and visual motion by Okyy_ID.',
+        ja: 'YamekariによるImagine Dragons「WARRIORS」のポーランド語カバーMV。League of Legendsに関連する楽曲を、Okyy_IDが映像編集とモーション演出で表現しました。'
+      },
+      type: 'mv',
+      year: '2026',
+      role: {
+        en: 'MV Editing / Motion Design',
+        ja: 'MV編集・モーションデザイン'
+      },
+      image: 'https://i.ytimg.com/vi/TvOQRc0JNuw/hqdefault.jpg',
+      videoUrl: 'https://www.youtube.com/watch?v=TvOQRc0JNuw',
+      youtubeId: 'TvOQRc0JNuw'
     }
   ]
 };
