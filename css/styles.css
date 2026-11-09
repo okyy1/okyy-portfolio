@@ -31,9 +31,81 @@ img { max-width:100%; display:block }
 .desktop-nav a::after { content:''; position:absolute; height:1px; width:0; left:0; bottom:-7px; background:var(--ink); transition:width .25s }
 .desktop-nav a:hover::after { width:100% }
 .header-actions { display:flex; align-items:center; gap:26px }
-.lang-control { display:flex; gap:7px; align-items:center; color:#999; font-weight:700; font-size:10px }
-.lang-btn { border:0; padding:6px 2px; background:transparent; font-weight:800; font-size:10px; color:#a0a098; letter-spacing:.04em }
-.lang-btn.active { color:var(--ink) }
+.lang-control{
+  display:flex;
+  flex-direction:column;
+  align-items:flex-end;
+  gap:4px;
+  line-height:1;
+  }
+  
+  .lang-label{
+    font-size:9px;
+    letter-spacing:.16em;
+    color:#8f8d86;
+    font-weight:700;
+    text-transform:uppercase;
+  }
+  
+  .lang-switch{
+    display:flex;
+    align-items:center;
+    gap:8px;
+    padding:8px 12px;
+    border:1px solid #d9d7cf;
+    background:#fff;
+    border-radius:999px;
+    box-shadow:0 4px 14px rgba(0,0,0,.04);
+  }
+  
+  .lang-divider{
+    color:#b1aea6;
+    font-size:11px;
+    font-weight:700;
+  }
+  
+  .lang-btn{
+    border:0;
+    padding:0;
+    background:transparent;
+    font-weight:800;
+    font-size:11px;
+    color:#9f9d95;
+    letter-spacing:.06em;
+    transition:color .2s, transform .2s;
+  }
+  
+  .lang-btn:hover{
+    color:var(--ink);
+    transform:translateY(-1px);
+  }
+  
+  .lang-btn.active{
+    color:var(--ink);
+  }
+  
+  .lang-note{
+    font-size:9px;
+    letter-spacing:.14em;
+    color:#66645d;
+    font-weight:700;
+    text-transform:uppercase;
+  }
+  
+  @media (max-width: 800px){
+    .lang-label,
+    .lang-note{
+      display:none;
+    }
+  
+    .lang-switch{
+      padding:7px 10px;
+    }
+  
+    .lang-btn{
+      font-size:10px;
+    }
+  }
 .header-cta { display:flex; align-items:center; gap:25px; height:39px; padding:0 14px; background:var(--ink); color:var(--white); font-weight:800; letter-spacing:.065em; font-size:10px; white-space:nowrap; transition:background .2s,transform .2s }
 .header-cta:hover { background:#3b3c38; transform:translateY(-2px) }
 .menu-toggle { display:none; width:32px; height:35px; align-items:center; justify-content:center; flex-direction:column; gap:6px; border:0; background:transparent; padding:3px }
