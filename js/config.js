@@ -9,7 +9,6 @@ window.OKYY_CONFIG = {
     x: 'https://x.com/okyy_id',
     tiktok: 'https://www.tiktok.com/@okyy_id',
     youtube: 'https://www.youtube.com/@Okyy_ID',
-    vgen: 'https://vgen.co/Okyy',
     // REQUIRED BEFORE PUBLISHING: your public business email. Leave empty to show 'coming soon'.
     email: 'okyynee@gmail.com'
   },
