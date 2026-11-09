@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 630" role="img" aria-label="Abstract typography placeholder for Kamippoi na">
+<defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#1a1a18" stroke-opacity=".13" stroke-width="1"/></pattern></defs>
+<rect width="960" height="630" fill="#eee9df"/><rect width="960" height="630" fill="url(#grid)"/>
+<rect x="474" y="0" width="486" height="630" fill="#c83532"/><g fill="none" stroke="#f2e6db" opacity=".65"><circle cx="709" cy="296" r="214" stroke-width="5"/><circle cx="709" cy="296" r="167" stroke-width="1"/><path d="M485 296H940M709 66V525" stroke-width="1" stroke-dasharray="8 12"/></g>
+<path d="M487 89L907 517M906 88L490 506" stroke="#f2d7ca" stroke-width="4" opacity=".28"/>
+<g font-family="Arial,'Noto Sans JP',sans-serif" font-weight="bold"><text x="54" y="61" font-size="14" letter-spacing="4" fill="#171815">OKYY_ID / COVER MV</text><text x="900" y="61" font-size="13" text-anchor="end" letter-spacing="3" fill="#eee9df">04—04</text><text x="44" y="290" font-size="111" fill="#161716" letter-spacing="-9">神っぽいな</text><text x="53" y="347" font-size="22" fill="#161716" letter-spacing="8">KAMIPPOI NA</text><text x="53" y="583" font-size="14" fill="#161716" letter-spacing="3">SHOYUVT / MUSIC VIDEO</text></g>
+<rect x="53" y="412" width="328" height="8" fill="#c83532"/>
+</svg>
