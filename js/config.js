@@ -11,7 +11,7 @@ window.OKYY_CONFIG = {
     youtube: 'https://www.youtube.com/@Okyy_ID',
     vgen: 'https://vgen.co/Okyy',
     // REQUIRED BEFORE PUBLISHING: your public business email. Leave empty to show 'coming soon'.
-    email: ''
+    email: 'okyynee@gmail.com'
   },
   // These titles are examples from your known work history. SVGs are ORIGINAL
   // DESIGN PLACEHOLDERS, not actual MV thumbnails. Replace image with your own still.
