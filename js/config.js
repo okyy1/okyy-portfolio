@@ -19,16 +19,19 @@ window.OKYY_CONFIG = {
   // Optional: set youtubeId to a public YouTube video ID to embed it in the details dialog.
   projects: [
     {
-      id: 'lilas',
-      title: { en: 'LilaS', ja: 'LilaS' },
-      subtitle: { en: 'Fanmade Music Video', ja: 'ファンメイドMV' },
+      id: 'kouisho',
+      title: { en: '後遺症 — tsuno', ja: '後遺症 — tsuno' },
+      subtitle: { en: 'Music Video', ja: 'ミュージックビデオ' },
       description: {
-        en: 'An anime-inspired personal music video edit driven by cinematic pacing, atmosphere, and emotion.',
-        ja: 'シネマティックなテンポ、空気感、感情表現を大切にした、アニメをテーマにした自主制作MV。'
+        en: 'Music video editing and visual direction by Okyy_ID.',
+        ja: 'Okyy_IDが映像編集・ビジュアル演出を担当。'
       },
-      type: 'mv', year: '2026',
-      role: { en: 'Editing / Motion', ja: '編集・モーション' },
-      image: 'assets/work-lilas.svg', videoUrl: '', youtubeId: ''
+      type: 'mv',
+      year: '2026',
+      role: { en: 'Movie / Editing', ja: '映像制作・編集' },
+      image: 'https://i.ytimg.com/vi/9hX-s-_NjKE/hqdefault.jpg',
+      videoUrl: 'https://www.youtube.com/watch?v=9hX-s-_NjKE',
+      youtubeId: '9hX-s-_NjKE'
     },
     {
       id: 'blue-gold',
