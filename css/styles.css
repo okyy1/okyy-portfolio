@@ -117,6 +117,53 @@ img { max-width:100%; display:block }
     padding:7px 10px;
   }
 }
+
+
+/* OKYY_ID — Soft Animated Language Glow */
+
+.lang-control {
+  position: relative;
+  border: 1px solid #b5c8ef;
+  animation: languageGlow 9s ease-in-out infinite;
+}
+
+@keyframes languageGlow {
+  0%, 100% {
+    border-color: #b5c8ef;
+    box-shadow:
+      0 0 20px rgba(113, 148, 232, .24);
+  }
+
+  25% {
+    border-color: #cfb4ed;
+    box-shadow:
+      0 0 22px rgba(166, 121, 215, .24);
+  }
+
+  50% {
+    border-color: #a4ded8;
+    box-shadow:
+      0 0 22px rgba(91, 200, 191, .24);
+  }
+
+  75% {
+    border-color: #ecc5bf;
+    box-shadow:
+      0 0 20px rgba(228, 152, 154, .22);
+  }
+}
+
+.lang-control:hover {
+  animation-duration: 4s;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .lang-control {
+    animation: none;
+  }
+}
+
+
 .header-cta { display:flex; align-items:center; gap:25px; height:39px; padding:0 14px; background:var(--ink); color:var(--white); font-weight:800; letter-spacing:.065em; font-size:10px; white-space:nowrap; transition:background .2s,transform .2s }
 .header-cta:hover { background:#3b3c38; transform:translateY(-2px) }
 .menu-toggle { display:none; width:32px; height:35px; align-items:center; justify-content:center; flex-direction:column; gap:6px; border:0; background:transparent; padding:3px }
