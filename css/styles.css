@@ -119,47 +119,59 @@ img { max-width:100%; display:block }
 }
 
 
-/* OKYY_ID — Soft Animated Language Glow */
+/* OKYY_ID — Premium RGB Glow */
 
 .lang-control {
   position: relative;
-  border: 1px solid #b5c8ef;
-  animation: languageGlow 9s ease-in-out infinite;
+  border: 1px solid #a4bfff;
+  background: #fbfaf6;
+  border-radius: 999px;
+
+  animation: premiumGlow 7s linear infinite;
+  will-change: box-shadow, border-color;
 }
 
-@keyframes languageGlow {
+@keyframes premiumGlow {
   0%, 100% {
-    border-color: #b5c8ef;
+    border-color: #82aaff;
     box-shadow:
-      0 0 20px rgba(113, 148, 232, .24);
+      0 0 8px 2px rgba(95, 145, 255, .40),
+      0 0 25px 5px rgba(95, 145, 255, .22);
   }
 
   25% {
-    border-color: #cfb4ed;
+    border-color: #bc91ed;
     box-shadow:
-      0 0 22px rgba(166, 121, 215, .24);
+      0 0 8px 2px rgba(166, 108, 231, .42),
+      0 0 25px 5px rgba(166, 108, 231, .23);
   }
 
   50% {
-    border-color: #a4ded8;
+    border-color: #69d3c6;
     box-shadow:
-      0 0 22px rgba(91, 200, 191, .24);
+      0 0 8px 2px rgba(63, 192, 177, .40),
+      0 0 25px 5px rgba(63, 192, 177, .22);
   }
 
   75% {
-    border-color: #ecc5bf;
+    border-color: #f1a3bc;
     box-shadow:
-      0 0 20px rgba(228, 152, 154, .22);
+      0 0 8px 2px rgba(234, 119, 161, .40),
+      0 0 25px 5px rgba(234, 119, 161, .22);
   }
 }
 
+/* Glow sedikit lebih kuat saat hover */
 .lang-control:hover {
-  animation-duration: 4s;
+  animation-duration: 3.5s;
 }
 
 @media (prefers-reduced-motion: reduce) {
   .lang-control {
     animation: none;
+    border-color: #a4bfff;
+    box-shadow: 0 0 14px 3px
+      rgba(95, 145, 255, .3);
   }
 }
 
