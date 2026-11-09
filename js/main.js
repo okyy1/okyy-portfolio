@@ -10,12 +10,12 @@
       heroIntro: 'Music video editing, creative typography, and subtle motion — crafted around the feeling of every song.', exploreWork: 'EXPLORE MY WORK', startProject: 'START A PROJECT', heroBased: 'BASED IN INDONESIA · WORKING WORLDWIDE', scroll: 'SCROLL TO DISCOVER ↓',
       sectionSelected: 'SELECTED PROJECTS', worksTitle: 'Selected <i>works.</i>', worksIntro: 'A selection of music videos and visual projects. Every piece has its own rhythm.', filterAll: 'ALL', filterMv: 'MUSIC VIDEO', filterVisual: 'OTHER VISUALS', worksNote: 'More projects and short edits are available on my social channels.', seeMore: 'SEE MORE ON YOUTUBE',
       sectionOffer: 'WHAT I DO', servicesTitle: 'Visuals that<br><i>feel the music.</i>', servicesIntro: 'From delicate lyric animation to high-impact visual edits, each project is shaped around the sound and story.',
-      service1: 'Music Video Editing', service1Desc: 'Music-driven editing, scene composition, and smooth transitions for covers, originals, and VTuber projects.', service2: 'Lyric & Typography Motion', service2Desc: 'Expressive kinetic typography and lyric animation that follows the song without overpowering it.', service3: 'Character & Visual Motion', service3Desc: 'Layer-based parallax, subtle character movement, atmosphere, and motion graphics using supplied assets.', servicesPricing: 'Every commission is quoted based on scope, complexity, and deadline.', viewVgen: 'VIEW VGEN PROFILE',
+      service1: 'Music Video Editing', service1Desc: 'Music-driven editing, scene composition, and smooth transitions for covers, originals, and VTuber projects.', service2: 'Lyric & Typography Motion', service2Desc: 'Expressive kinetic typography and lyric animation that follows the song without overpowering it.', service3: 'Character & Visual Motion', service3Desc: 'Layer-based parallax, subtle character movement, atmosphere, and motion graphics using supplied assets.', servicesPricing: 'Every commission is quoted based on scope, complexity, and deadline.', servicesContact: 'DISCUSS A PROJECT',
       sectionAbout: 'A LITTLE ABOUT ME', aboutTitle: 'A little movement.<br><i>A lot of feeling.</i>', aboutCopy: "Hi, I'm Okyy_ID — an independent music video editor and motion designer based in Indonesia. I create visual experiences for music, combining pacing, typography, and atmospheric motion. I enjoy collaborating with artists and VTubers from around the world, especially Japan.", aboutFocusLabel: 'FOCUS', aboutFocus: 'Music Videos / Motion Graphics', aboutToolLabel: 'TOOLS', aboutLocationLabel: 'LOCATION', aboutLocation: 'Indonesia · Worldwide Remote', aboutLanguageLabel: 'LANGUAGES',
       sectionContact: "LET'S COLLABORATE", contactKicker: 'HAVE SOMETHING IN MIND?', contactTitle: "Let's make<br><i>something move.</i>", contactIntro: "Have a song, cover, or visual project in mind? Reach out on the platform you're most comfortable with. Send your idea, song length, references, and target deadline.", contactNote: 'For smoother planning, please include your budget range if available.',
       footerRights: 'ALL RIGHTS RESERVED.', backTop: 'BACK TO TOP',
-      projectCategoryMv: 'MUSIC VIDEO', projectCategoryVisual: 'VISUAL PROJECT', modalRole: 'ROLE', modalYear: 'YEAR', modalCategory: 'CATEGORY', modalViewVideo: 'WATCH PROJECT', modalFindWorks: 'FIND MY WORK ON YOUTUBE', modalPlaceholder: 'An individual public video link has not been added yet. You can browse my YouTube channel in the meantime.', modalImageNotice: 'Preview image is a design placeholder; original MV still to be added.', modalClose: 'Close project details', emptyProjects: 'No projects in this category yet.', emailUnavailable: 'Email address is not configured yet. Please use Instagram, X, TikTok, or VGen.', emailComing: 'EMAIL (COMING SOON)', contactInstagram: 'INSTAGRAM', contactX: 'X / TWITTER', contactTikTok: 'TIKTOK', contactEmail: 'EMAIL', contactVgen: 'VGEN',
-      contactInstagramSub: 'Direct message', contactXSub: 'Direct message', contactTikTokSub: 'Direct message', contactEmailSub: 'Business inquiries', contactVgenSub: 'Commission platform'
+      projectCategoryMv: 'MUSIC VIDEO', projectCategoryVisual: 'VISUAL PROJECT', modalRole: 'ROLE', modalYear: 'YEAR', modalCategory: 'CATEGORY', modalViewVideo: 'WATCH PROJECT', modalFindWorks: 'FIND MY WORK ON YOUTUBE', modalPlaceholder: 'An individual public video link has not been added yet. You can browse my YouTube channel in the meantime.', modalImageNotice: 'Preview image is a design placeholder; original MV still to be added.', modalClose: 'Close project details', emptyProjects: 'No projects in this category yet.', emailUnavailable: 'Email address is not configured yet. Please use Instagram, X, TikTok ', emailComing: 'EMAIL (COMING SOON)', contactInstagram: 'INSTAGRAM', contactX: 'X / TWITTER', contactTikTok: 'TIKTOK', contactEmail: 'EMAIL',
+      contactInstagramSub: 'Direct message', contactXSub: 'Direct message', contactTikTokSub: 'Direct message', contactEmailSub: 'Business inquiries', 
     },
     ja: {
       skip: '本文へスキップ', navWork: '作品', navServices: 'サービス', navAbout: 'プロフィール', navContact: 'お問い合わせ', letsTalk: 'お問い合わせ',
@@ -23,12 +23,12 @@
       heroIntro: '楽曲の空気感を大切に、MV編集・タイポグラフィ・繊細なモーションで音楽を視覚化します。', exploreWork: '作品を見る', startProject: '制作の相談', heroBased: 'インドネシア拠点 · 海外案件対応', scroll: '下へスクロール ↓',
       sectionSelected: '主な制作実績', worksTitle: 'Selected <i>works.</i>', worksIntro: '音楽に寄り添って制作したMVと映像作品の一部をご紹介します。', filterAll: 'すべて', filterMv: 'MV', filterVisual: 'その他の映像', worksNote: 'ほかの作品やショート動画はSNSでも公開しています。', seeMore: 'YOUTUBEでもっと見る',
       sectionOffer: '制作できること', servicesTitle: '音楽の魅力を、<br><i>映像の力で。</i>', servicesIntro: '繊細なリリックアニメーションからダイナミックな映像編集まで、楽曲の世界観に合わせて制作します。',
-      service1: 'ミュージックビデオ編集', service1Desc: '歌ってみた・オリジナル曲・VTuber向けのMV編集、構図設計、楽曲に合わせたトランジション。', service2: 'リリック・タイポグラフィ', service2Desc: '音楽を邪魔せず、歌詞の意味とリズムを引き立てるキネティックタイポグラフィ。', service3: 'キャラクター・ビジュアルモーション', service3Desc: 'ご提供いただいた素材を使ったレイヤーアニメーション、パララックス、雰囲気作り、モーショングラフィックス。', servicesPricing: '料金は内容・難易度・納期に応じて個別にお見積もりいたします。', viewVgen: 'VGENのプロフィール',
+      service1: 'ミュージックビデオ編集', service1Desc: '歌ってみた・オリジナル曲・VTuber向けのMV編集、構図設計、楽曲に合わせたトランジション。', service2: 'リリック・タイポグラフィ', service2Desc: '音楽を邪魔せず、歌詞の意味とリズムを引き立てるキネティックタイポグラフィ。', service3: 'キャラクター・ビジュアルモーション', service3Desc: 'ご提供いただいた素材を使ったレイヤーアニメーション、パララックス、雰囲気作り、モーショングラフィックス。', servicesPricing: '料金は内容・難易度・納期に応じて個別にお見積もりいたします。', servicesContact: '制作について相談する',
       sectionAbout: '自己紹介', aboutTitle: '小さな動きに、<br><i>大きな感情を。</i>', aboutCopy: 'Okyy_IDです。インドネシアを拠点に活動するMVエディター・モーションデザイナーです。リズムに合った編集、タイポグラフィ、雰囲気を演出するモーションを組み合わせて、音楽の魅力を引き出します。日本をはじめ、世界中のアーティストやVTuberとの制作を楽しんでいます。', aboutFocusLabel: '専門', aboutFocus: 'MV制作 / モーショングラフィックス', aboutToolLabel: '使用ソフト', aboutLocationLabel: '拠点', aboutLocation: 'インドネシア · リモート対応', aboutLanguageLabel: '対応言語',
       sectionContact: 'お問い合わせ', contactKicker: '制作のご相談はこちら', contactTitle: '一緒に、<br><i>動く作品を。</i>', contactIntro: '楽曲・歌ってみた・映像制作のご相談は、お好きなSNSまたはメールからお気軽にどうぞ。ご希望の内容、楽曲の長さ、参考動画、希望納期をお知らせください。', contactNote: 'ご予算の目安も共有いただけると、よりスムーズにご案内できます。',
       footerRights: '無断転載禁止', backTop: 'ページ上部へ',
-      projectCategoryMv: 'ミュージックビデオ', projectCategoryVisual: '映像作品', modalRole: '担当', modalYear: '制作年', modalCategory: 'カテゴリー', modalViewVideo: '動画を見る', modalFindWorks: 'YOUTUBEの作品一覧へ', modalPlaceholder: '作品への個別リンクはまだ設定されていません。YouTubeチャンネルから作品をご覧いただけます。', modalImageNotice: '画像は仮デザインです。実際のMV画像に差し替える予定です。', modalClose: '作品詳細を閉じる', emptyProjects: 'このカテゴリーの作品はまだありません。', emailUnavailable: 'メールアドレスはまだ未設定です。Instagram・X・TikTok・VGenをご利用ください。', emailComing: 'メール（準備中）', contactInstagram: 'INSTAGRAM', contactX: 'X / TWITTER', contactTikTok: 'TIKTOK', contactEmail: 'メール', contactVgen: 'VGEN',
-      contactInstagramSub: 'DMで相談', contactXSub: 'DMで相談', contactTikTokSub: 'DMで相談', contactEmailSub: 'お仕事のお問い合わせ', contactVgenSub: 'コミッション受付'
+      projectCategoryMv: 'ミュージックビデオ', projectCategoryVisual: '映像作品', modalRole: '担当', modalYear: '制作年', modalCategory: 'カテゴリー', modalViewVideo: '動画を見る', modalFindWorks: 'YOUTUBEの作品一覧へ', modalPlaceholder: '作品への個別リンクはまだ設定されていません。YouTubeチャンネルから作品をご覧いただけます。', modalImageNotice: '画像は仮デザインです。実際のMV画像に差し替える予定です。', modalClose: '作品詳細を閉じる', emptyProjects: 'このカテゴリーの作品はまだありません。', emailUnavailable: 'メールアドレスはまだ未設定です。Instagram・X・TikTok', emailComing: 'メール（準備中）', contactInstagram: 'INSTAGRAM', contactX: 'X / TWITTER', contactTikTok: 'TIKTOK', contactEmail: 'メール',
+      contactInstagramSub: 'DMで相談', contactXSub: 'DMで相談', contactTikTokSub: 'DMで相談', contactEmailSub: 'お仕事のお問い合わせ', 
     }
   };
   const state = { lang: 'en', filter: 'all', modalProject: null, lastFocus: null };
@@ -80,8 +80,7 @@
       { name: 'contactInstagram', desc: 'contactInstagramSub', logo: 'IG', url: socials.instagram },
       { name: 'contactX', desc: 'contactXSub', logo: 'X', url: socials.x },
       { name: 'contactTikTok', desc: 'contactTikTokSub', logo: 'TT', url: socials.tiktok },
-      { name: 'contactEmail', desc: 'contactEmailSub', logo: '@', url: socials.email && /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(socials.email) ? `mailto:${socials.email}?subject=${encodeURIComponent('MV Commission Inquiry — Okyy_ID')}` : '' },
-      { name: 'contactVgen', desc: 'contactVgenSub', logo: 'VG', url: socials.vgen }
+      { name: 'contactEmail', desc: 'contactEmailSub', logo: '@', url: socials.email && /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(socials.email) ? `mailto:${socials.email}?subject=${encodeURIComponent('MV Commission Inquiry — Okyy_ID')}` : '' }
     ];
     links.forEach(item => {
       const valid = item.url.startsWith('mailto:') || isSafeUrl(item.url);
@@ -124,7 +123,7 @@
     const metadata = h('div', 'modal-data'); appendMeta(metadata, tr('modalRole'), localized(project.role)); appendMeta(metadata, tr('modalYear'), project.year); appendMeta(metadata, tr('modalCategory'), tr(project.type === 'mv' ? 'projectCategoryMv' : 'projectCategoryVisual')); text.append(metadata);
     const videoUrl = isSafeUrl(project.videoUrl) ? project.videoUrl : (validYoutubeId ? `https://www.youtube.com/watch?v=${project.youtubeId}` : null);
     const link = h('a', 'button-primary modal-action', videoUrl ? tr('modalViewVideo') : tr('modalFindWorks'));
-    link.href = videoUrl || (config.socials && isSafeUrl(config.socials.youtube) ? config.socials.youtube : 'https://vgen.co/Okyy'); link.target = '_blank'; link.rel = 'noopener noreferrer'; link.append(h('span', '', '↗')); text.append(link);
+    link.href = videoUrl || (config.socials && isSafeUrl(config.socials.youtube) ? config.socials.youtube : 'https://www.youtube.com/@Okyy_ID'); link.target = '_blank'; link.rel = 'noopener noreferrer'; link.append(h('span', '', '↗')); text.append(link);
     if (!videoUrl) text.append(h('p', 'modal-notice', tr('modalPlaceholder')));
     if (/\.svg$/i.test(project.image)) text.append(h('p', 'modal-notice', tr('modalImageNotice')));
     top.append(poster, text); body.append(top);
@@ -166,7 +165,6 @@
       $$('.reveal').forEach(item => observer.observe(item));
     } else $$('.reveal').forEach(item => item.classList.add('shown'));
     if (isSafeUrl(config.socials?.youtube)) $('#youtubeWorks').href = config.socials.youtube;
-    if (isSafeUrl(config.socials?.vgen)) $('#servicesVgen').href = config.socials.vgen;
     applyLanguage();
     requestAnimationFrame(() => document.body.classList.add('ready'));
   }
