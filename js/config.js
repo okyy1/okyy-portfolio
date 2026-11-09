@@ -34,24 +34,24 @@ window.OKYY_CONFIG = {
       youtubeId: '9hX-s-_NjKE'
     },
     {
-      id: 'mv-02',
+      id: 'silver-lining',
       title: {
-        en: 'Music Video 02',
-        ja: 'MV作品 02'
+        en: 'Silver Lining — Laufey',
+        ja: 'Silver Lining — Laufey'
       },
       subtitle: {
-        en: 'Music Video',
-        ja: 'ミュージックビデオ'
+        en: 'yawning ໒꒱ — Cover MV',
+        ja: 'yawning ໒꒱ — 歌ってみたMV'
       },
       description: {
-        en: 'Music video editing and motion design by Okyy_ID.',
-        ja: 'Okyy_IDが映像編集とモーションデザインを担当。'
+        en: 'A music video for yawning ໒꒱’s cover of "Silver Lining" by Laufey. Video editing and motion design by Okyy_ID.',
+        ja: 'Laufeyの「Silver Lining」をyawning ໒꒱がカバーした楽曲のMV。映像編集とモーションデザインをOkyy_IDが担当。'
       },
       type: 'mv',
       year: '2026',
       role: {
-        en: 'Movie / Editing',
-        ja: '映像制作・編集'
+        en: 'MV Editing / Motion Design',
+        ja: 'MV編集・モーションデザイン'
       },
       image: 'https://i.ytimg.com/vi/u2vwj-Sykmc/hqdefault.jpg',
       videoUrl: 'https://www.youtube.com/watch?v=u2vwj-Sykmc',
