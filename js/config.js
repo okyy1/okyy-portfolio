@@ -58,16 +58,28 @@ window.OKYY_CONFIG = {
       youtubeId: 'u2vwj-Sykmc'
     },
     {
-      id: 'awakening',
-      title: { en: 'The Awakening', ja: 'The Awakening' },
-      subtitle: { en: 'Yamekari — Lore Video', ja: 'Yamekari — ロア映像' },
-      description: {
-        en: 'A storytelling-led visual project with cinematic composition and dramatic editing.',
-        ja: 'シネマティックな画面構成とドラマティックな編集を用いたストーリー重視の映像作品。'
+      id: 'grain-in-ear',
+      title: {
+        en: '芒种 (Grain in Ear)',
+        ja: '芒种 (Grain in Ear)'
       },
-      type: 'visual', year: '2026',
-      role: { en: 'Video Editing / Visual Direction', ja: '映像編集・ビジュアル演出' },
-      image: 'assets/work-awakening.svg', videoUrl: '', youtubeId: ''
+      subtitle: {
+        en: 'Rayna — Cover MV',
+        ja: 'Rayna — カバーMV'
+      },
+      description: {
+        en: 'A music video for Rayna’s cover of "芒种 (Grain in Ear)", featuring visual editing and motion design by Okyy_ID.',
+        ja: 'Raynaによる「芒种（Grain in Ear）」のカバーMV。Okyy_IDが映像編集とモーションデザインを担当。'
+      },
+      type: 'mv',
+      year: '2026',
+      role: {
+        en: 'MV Editing / Motion Design',
+        ja: 'MV編集・モーションデザイン'
+      },
+      image: 'https://i.ytimg.com/vi/BG9NMehBofU/hqdefault.jpg',
+      videoUrl: 'https://www.youtube.com/watch?v=BG9NMehBofU',
+      youtubeId: 'BG9NMehBofU'
     },
     {
       id: 'kamippoi',
