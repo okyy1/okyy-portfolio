@@ -34,16 +34,28 @@ window.OKYY_CONFIG = {
       youtubeId: '9hX-s-_NjKE'
     },
     {
-      id: 'blue-gold',
-      title: { en: 'Blue & Gold', ja: 'Blue & Gold' },
-      subtitle: { en: 'Music Video Edit', ja: 'MV編集' },
-      description: {
-        en: 'A music-focused edit exploring color, energy, and transitions shaped around the rhythm.',
-        ja: '色彩・エネルギー・リズムに合わせたトランジションを軸に制作したMV編集。'
+      id: 'mv-02',
+      title: {
+        en: 'Music Video 02',
+        ja: 'MV作品 02'
       },
-      type: 'mv', year: '2026',
-      role: { en: 'Editing / Motion Graphics', ja: '編集・モーショングラフィックス' },
-      image: 'assets/work-blue-gold.svg', videoUrl: '', youtubeId: ''
+      subtitle: {
+        en: 'Music Video',
+        ja: 'ミュージックビデオ'
+      },
+      description: {
+        en: 'Music video editing and motion design by Okyy_ID.',
+        ja: 'Okyy_IDが映像編集とモーションデザインを担当。'
+      },
+      type: 'mv',
+      year: '2026',
+      role: {
+        en: 'Movie / Editing',
+        ja: '映像制作・編集'
+      },
+      image: 'https://i.ytimg.com/vi/u2vwj-Sykmc/hqdefault.jpg',
+      videoUrl: 'https://www.youtube.com/watch?v=u2vwj-Sykmc',
+      youtubeId: 'u2vwj-Sykmc'
     },
     {
       id: 'awakening',
