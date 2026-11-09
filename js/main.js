@@ -89,7 +89,19 @@
       if (valid) { link.href = item.url; if (!item.url.startsWith('mailto:')) { link.target = '_blank'; link.rel = 'noopener noreferrer'; } }
       else { link.type = 'button'; link.addEventListener('click', () => showToast(tr('emailUnavailable'))); }
       const icon = h('span', 'contact-icon', item.logo);
-      const details = h('span', 'contact-details'); details.append(h('strong', '', !valid && item.name === 'contactEmail' ? tr('emailComing') : tr(item.name)), h('small', '', tr(item.desc)));
+      const details = h('span', 'contact-details');
+      details.append(
+        h('strong', '',
+          !valid && item.name === 'contactEmail'
+            ? tr('emailComing')
+            : tr(item.name)
+        ),
+        h('small', '',
+          item.name === 'contactEmail' && valid
+            ? socials.email
+            : tr(item.desc)
+        )
+      );
       const arrow = h('span', 'contact-arrow', valid ? '↗' : '—');
       link.append(icon, details, arrow); holder.append(link);
     });
